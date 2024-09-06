@@ -1,1 +1,1 @@
-# IBDP_CO2_machineLearning
+This code is a framework for predicting CO2 saturation after underground CO2 injection, related to the Illinois Basin – Decatur Project (IBDP). It includes code for U-Net training and evaluation and is developed for use in Spyder (Python 3.9). For more information, please refer to our paper "A Physics-Informed Dynamic and Constrained Machine Learning Framework for CO2 Saturation Prediction in Geological Carbon Storage".
